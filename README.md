@@ -1,5 +1,5 @@
 # Final Project
-## Group 003
+## Group 7
 
 ## 題目
    赫姆霍茲線圈
