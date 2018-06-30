@@ -92,6 +92,8 @@
 3. [Part II: Experiment 2a](http://www.glowscript.org/#/user/fashing1999/folder/Public/program/exp2a)
 4. [Part II: Experiment 2b](http://www.glowscript.org/#/user/zetacat/folder/Public/program/helmholtzpublic/edit)
 
+## Youtube 連結
+https://youtu.be/p5HrbpEkw-M
 ## 參考資料
 http://www.phys.nthu.edu.tw/~gplab/file/18%20Helmholtz%20Coils/Magnetic%20fields%20of%20Helmholtz%20Coil.pdf
 
