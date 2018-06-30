@@ -2,7 +2,7 @@
 ## Group 7
 
 ## 題目
-   赫姆霍茲線圈
+   **Barricade the Escape** -- 赫姆霍茲線圈
 
 ## 組員
 
