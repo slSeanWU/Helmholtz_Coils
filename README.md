@@ -85,7 +85,12 @@
  
     陳法熏
  
+## Glowscript 連結
 
+1. [Part I: Model Construction](http://www.glowscript.org/#/user/b06902080/folder/Public/program/finalpublic/edit)
+2. [Part II: Experiment 1](http://www.glowscript.org/#/user/b06902080/folder/Public/program/Exp1/edit)
+3. [Part II: Experiment 2a](http://www.glowscript.org/#/user/b06902080/folder/Public/program/Exp2a/edit)
+4. [Part II: Experiment 2b](http://www.glowscript.org/#/user/zetacat/folder/Public/program/helmholtzpublic/edit)
 
 ## 參考資料
 http://www.phys.nthu.edu.tw/~gplab/file/18%20Helmholtz%20Coils/Magnetic%20fields%20of%20Helmholtz%20Coil.pdf
